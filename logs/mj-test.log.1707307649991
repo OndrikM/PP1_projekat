@@ -1,0 +1,615 @@
+INFO  13:05:57,168 - Compiling source file: C:\Users\mateja\Desktop\PP projekat\om200335\test\program.mj
+INFO  13:05:57,369 - #2 program
+INFO  13:05:57,369 - #15 test301
+INFO  13:05:57,369 - #15 int
+INFO  13:05:57,376 - #15 a
+INFO  13:05:57,376 - #11 ,
+INFO  13:05:57,378 - #15 b
+INFO  13:05:57,378 - #11 ,
+INFO  13:05:57,382 - #15 c
+INFO  13:05:57,382 - #11 ,
+INFO  13:05:57,382 - #15 d
+INFO  13:05:57,382 - #11 ,
+INFO  13:05:57,382 - #15 i
+INFO  13:05:57,382 - #5 ;
+INFO  13:05:57,382 - #15 int
+INFO  13:05:57,383 - #15 niz
+INFO  13:05:57,383 - #44 [
+INFO  13:05:57,383 - #45 ]
+INFO  13:05:57,383 - #5 ;
+INFO  13:05:57,383 - #3 {
+INFO  13:05:57,383 - #13 void
+INFO  13:05:57,386 - #15 main
+INFO  13:05:57,388 - #6 (
+INFO  13:05:57,390 - #7 )
+INFO  13:05:57,390 - #3 {
+INFO  13:05:57,392 - #15 niz
+INFO  13:05:57,394 - #8 =
+INFO  13:05:57,396 - #21 new
+INFO  13:05:57,405 - #15 int
+INFO  13:05:57,406 - #44 [
+INFO  13:05:57,406 - #14 10
+INFO  13:05:57,406 - #45 ]
+INFO  13:05:57,415 - #5 ;
+INFO  13:05:57,415 - #27 for
+INFO  13:05:57,416 - #6 (
+INFO  13:05:57,416 - #15 i
+INFO  13:05:57,416 - #8 =
+INFO  13:05:57,416 - #14 0
+INFO  13:05:57,416 - #5 ;
+INFO  13:05:57,418 - #15 i
+INFO  13:05:57,418 - #36 <
+INFO  13:05:57,419 - #14 10
+INFO  13:05:57,422 - #5 ;
+INFO  13:05:57,423 - #15 i
+INFO  13:05:57,427 - #40 ++
+INFO  13:05:57,427 - #7 )
+INFO  13:05:57,428 - #3 {
+INFO  13:05:57,428 - #15 niz
+INFO  13:05:57,428 - #44 [
+INFO  13:05:57,428 - #15 i
+INFO  13:05:57,432 - #45 ]
+INFO  13:05:57,432 - #8 =
+INFO  13:05:57,432 - #15 i
+INFO  13:05:57,432 - #5 ;
+INFO  13:05:57,432 - #4 }
+INFO  13:05:57,432 - #15 a
+INFO  13:05:57,433 - #8 =
+INFO  13:05:57,433 - #15 niz
+INFO  13:05:57,433 - #44 [
+INFO  13:05:57,433 - #14 0
+INFO  13:05:57,433 - #45 ]
+INFO  13:05:57,433 - #5 ;
+INFO  13:05:57,433 - #15 b
+INFO  13:05:57,433 - #8 =
+INFO  13:05:57,433 - #15 niz
+INFO  13:05:57,433 - #44 [
+INFO  13:05:57,434 - #14 0
+INFO  13:05:57,434 - #45 ]
+INFO  13:05:57,434 - #5 ;
+INFO  13:05:57,434 - #15 c
+INFO  13:05:57,434 - #8 =
+INFO  13:05:57,434 - #15 niz
+INFO  13:05:57,434 - #44 [
+INFO  13:05:57,434 - #14 1
+INFO  13:05:57,434 - #45 ]
+INFO  13:05:57,434 - #5 ;
+INFO  13:05:57,434 - #15 d
+INFO  13:05:57,434 - #8 =
+INFO  13:05:57,435 - #15 niz
+INFO  13:05:57,435 - #44 [
+INFO  13:05:57,435 - #14 1
+INFO  13:05:57,435 - #45 ]
+INFO  13:05:57,435 - #5 ;
+INFO  13:05:57,435 - #12 print
+INFO  13:05:57,435 - #6 (
+INFO  13:05:57,435 - #15 niz
+INFO  13:05:57,435 - #50 @
+INFO  13:05:57,435 - #14 1
+INFO  13:05:57,435 - #7 )
+INFO  13:05:57,438 - #5 ;
+INFO  13:05:57,438 - #4 }
+INFO  13:05:57,438 - #4 }
+INFO  13:05:57,467 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  NamespaceListDeclNoMore(
+  ) [NamespaceListDeclNoMore]
+  ConstVarClassDeclListDeclVar(
+    ConstVarClassDeclListDeclVar(
+      ConstVarClassDeclListDeclNoMore(
+      ) [ConstVarClassDeclListDeclNoMore]
+      VarDeclNoArray(
+        TypeDeclNoPrefix(
+         int
+        ) [TypeDeclNoPrefix]
+       a
+        ReptVarsDeclMore(
+          ReptVarsDeclMore(
+            ReptVarsDeclMore(
+              ReptVarsDeclMore(
+                ReptVarsDeclNoMore(
+                ) [ReptVarsDeclNoMore]
+               b
+                SquareOptionDeclNoMore(
+                ) [SquareOptionDeclNoMore]
+              ) [ReptVarsDeclMore]
+             c
+              SquareOptionDeclNoMore(
+              ) [SquareOptionDeclNoMore]
+            ) [ReptVarsDeclMore]
+           d
+            SquareOptionDeclNoMore(
+            ) [SquareOptionDeclNoMore]
+          ) [ReptVarsDeclMore]
+         i
+          SquareOptionDeclNoMore(
+          ) [SquareOptionDeclNoMore]
+        ) [ReptVarsDeclMore]
+      ) [VarDeclNoArray]
+    ) [ConstVarClassDeclListDeclVar]
+    VarDeclArray(
+      TypeDeclNoPrefix(
+       int
+      ) [TypeDeclNoPrefix]
+     niz
+      ReptVarsDeclNoMore(
+      ) [ReptVarsDeclNoMore]
+    ) [VarDeclArray]
+  ) [ConstVarClassDeclListDeclVar]
+  MethodDeclListDeclMore(
+    MethodDeclListDeclNoMore(
+    ) [MethodDeclListDeclNoMore]
+    MethodDecl(
+      MethodDeclNameNoParams(
+        TypeDeclVoid(
+        ) [TypeDeclVoid]
+       main
+      ) [MethodDeclNameNoParams]
+      VarDeclListDeclNoMore(
+      ) [VarDeclListDeclNoMore]
+      StatementListDeclMore(
+        StatementListDeclMore(
+          StatementListDeclMore(
+            StatementListDeclMore(
+              StatementListDeclMore(
+                StatementListDeclMore(
+                  StatementListDeclMore(
+                    StatementListDeclNoMore(
+                    ) [StatementListDeclNoMore]
+                    StatementDesignator(
+                      DesignatorStatementAssign(
+                        DesignatorDeclNoPrefix(
+                         niz
+                          IdentExprOptionDeclNoMore(
+                          ) [IdentExprOptionDeclNoMore]
+                        ) [DesignatorDeclNoPrefix]
+                        AssignopDecl(
+                        ) [AssignopDecl]
+                        ExprDecl(
+                          MinusOptionDeclNoMore(
+                          ) [MinusOptionDeclNoMore]
+                          Term(
+                            FactorNewExpr(
+                              TypeDeclNoPrefix(
+                               int
+                              ) [TypeDeclNoPrefix]
+                              ExprDecl(
+                                MinusOptionDeclNoMore(
+                                ) [MinusOptionDeclNoMore]
+                                Term(
+                                  FactorNumber(
+                                   10
+                                  ) [FactorNumber]
+                                  MoreFactorsDeclNoMore(
+                                  ) [MoreFactorsDeclNoMore]
+                                ) [Term]
+                                InsertMinusDecl(
+                                ) [InsertMinusDecl]
+                                OptionAddopDeclNoMore(
+                                ) [OptionAddopDeclNoMore]
+                              ) [ExprDecl]
+                            ) [FactorNewExpr]
+                            MoreFactorsDeclNoMore(
+                            ) [MoreFactorsDeclNoMore]
+                          ) [Term]
+                          InsertMinusDecl(
+                          ) [InsertMinusDecl]
+                          OptionAddopDeclNoMore(
+                          ) [OptionAddopDeclNoMore]
+                        ) [ExprDecl]
+                      ) [DesignatorStatementAssign]
+                    ) [StatementDesignator]
+                  ) [StatementListDeclMore]
+                  StatementFor(
+                    ForOptionDecl1(
+                      DesignatorStatementAssign(
+                        DesignatorDeclNoPrefix(
+                         i
+                          IdentExprOptionDeclNoMore(
+                          ) [IdentExprOptionDeclNoMore]
+                        ) [DesignatorDeclNoPrefix]
+                        AssignopDecl(
+                        ) [AssignopDecl]
+                        ExprDecl(
+                          MinusOptionDeclNoMore(
+                          ) [MinusOptionDeclNoMore]
+                          Term(
+                            FactorNumber(
+                             0
+                            ) [FactorNumber]
+                            MoreFactorsDeclNoMore(
+                            ) [MoreFactorsDeclNoMore]
+                          ) [Term]
+                          InsertMinusDecl(
+                          ) [InsertMinusDecl]
+                          OptionAddopDeclNoMore(
+                          ) [OptionAddopDeclNoMore]
+                        ) [ExprDecl]
+                      ) [DesignatorStatementAssign]
+                      DesignatorStatementListDeclNoMore(
+                      ) [DesignatorStatementListDeclNoMore]
+                    ) [ForOptionDecl1]
+                    CondFactOptionDeclMore(
+                      CondFactExprRelopExpr(
+                        ExprDecl(
+                          MinusOptionDeclNoMore(
+                          ) [MinusOptionDeclNoMore]
+                          Term(
+                            FactorDesignator(
+                              DesignatorDeclNoPrefix(
+                               i
+                                IdentExprOptionDeclNoMore(
+                                ) [IdentExprOptionDeclNoMore]
+                              ) [DesignatorDeclNoPrefix]
+                            ) [FactorDesignator]
+                            MoreFactorsDeclNoMore(
+                            ) [MoreFactorsDeclNoMore]
+                          ) [Term]
+                          InsertMinusDecl(
+                          ) [InsertMinusDecl]
+                          OptionAddopDeclNoMore(
+                          ) [OptionAddopDeclNoMore]
+                        ) [ExprDecl]
+                        RelopLess(
+                        ) [RelopLess]
+                        ExprDecl(
+                          MinusOptionDeclNoMore(
+                          ) [MinusOptionDeclNoMore]
+                          Term(
+                            FactorNumber(
+                             10
+                            ) [FactorNumber]
+                            MoreFactorsDeclNoMore(
+                            ) [MoreFactorsDeclNoMore]
+                          ) [Term]
+                          InsertMinusDecl(
+                          ) [InsertMinusDecl]
+                          OptionAddopDeclNoMore(
+                          ) [OptionAddopDeclNoMore]
+                        ) [ExprDecl]
+                      ) [CondFactExprRelopExpr]
+                    ) [CondFactOptionDeclMore]
+                    CondEndDecl(
+                    ) [CondEndDecl]
+                    ForOptionDecl2(
+                      DesignatorStatementInc(
+                        DesignatorDeclNoPrefix(
+                         i
+                          IdentExprOptionDeclNoMore(
+                          ) [IdentExprOptionDeclNoMore]
+                        ) [DesignatorDeclNoPrefix]
+                      ) [DesignatorStatementInc]
+                      DesignatorStatementListDeclNoMore(
+                      ) [DesignatorStatementListDeclNoMore]
+                    ) [ForOptionDecl2]
+                    ForStatementDecl(
+                      StatementNew(
+                        StatementListDeclMore(
+                          StatementListDeclNoMore(
+                          ) [StatementListDeclNoMore]
+                          StatementDesignator(
+                            DesignatorStatementAssign(
+                              DesignatorDeclNoPrefix(
+                               niz
+                                IdentExprOptionDeclMore(
+                                  IdentExprOptionDeclNoMore(
+                                  ) [IdentExprOptionDeclNoMore]
+                                  IdentExprOptionExpr(
+                                    FieldArrayDecl(
+                                    ) [FieldArrayDecl]
+                                    ExprDecl(
+                                      MinusOptionDeclNoMore(
+                                      ) [MinusOptionDeclNoMore]
+                                      Term(
+                                        FactorDesignator(
+                                          DesignatorDeclNoPrefix(
+                                           i
+                                            IdentExprOptionDeclNoMore(
+                                            ) [IdentExprOptionDeclNoMore]
+                                          ) [DesignatorDeclNoPrefix]
+                                        ) [FactorDesignator]
+                                        MoreFactorsDeclNoMore(
+                                        ) [MoreFactorsDeclNoMore]
+                                      ) [Term]
+                                      InsertMinusDecl(
+                                      ) [InsertMinusDecl]
+                                      OptionAddopDeclNoMore(
+                                      ) [OptionAddopDeclNoMore]
+                                    ) [ExprDecl]
+                                  ) [IdentExprOptionExpr]
+                                ) [IdentExprOptionDeclMore]
+                              ) [DesignatorDeclNoPrefix]
+                              AssignopDecl(
+                              ) [AssignopDecl]
+                              ExprDecl(
+                                MinusOptionDeclNoMore(
+                                ) [MinusOptionDeclNoMore]
+                                Term(
+                                  FactorDesignator(
+                                    DesignatorDeclNoPrefix(
+                                     i
+                                      IdentExprOptionDeclNoMore(
+                                      ) [IdentExprOptionDeclNoMore]
+                                    ) [DesignatorDeclNoPrefix]
+                                  ) [FactorDesignator]
+                                  MoreFactorsDeclNoMore(
+                                  ) [MoreFactorsDeclNoMore]
+                                ) [Term]
+                                InsertMinusDecl(
+                                ) [InsertMinusDecl]
+                                OptionAddopDeclNoMore(
+                                ) [OptionAddopDeclNoMore]
+                              ) [ExprDecl]
+                            ) [DesignatorStatementAssign]
+                          ) [StatementDesignator]
+                        ) [StatementListDeclMore]
+                      ) [StatementNew]
+                    ) [ForStatementDecl]
+                  ) [StatementFor]
+                ) [StatementListDeclMore]
+                StatementDesignator(
+                  DesignatorStatementAssign(
+                    DesignatorDeclNoPrefix(
+                     a
+                      IdentExprOptionDeclNoMore(
+                      ) [IdentExprOptionDeclNoMore]
+                    ) [DesignatorDeclNoPrefix]
+                    AssignopDecl(
+                    ) [AssignopDecl]
+                    ExprDecl(
+                      MinusOptionDeclNoMore(
+                      ) [MinusOptionDeclNoMore]
+                      Term(
+                        FactorDesignator(
+                          DesignatorDeclNoPrefix(
+                           niz
+                            IdentExprOptionDeclMore(
+                              IdentExprOptionDeclNoMore(
+                              ) [IdentExprOptionDeclNoMore]
+                              IdentExprOptionExpr(
+                                FieldArrayDecl(
+                                ) [FieldArrayDecl]
+                                ExprDecl(
+                                  MinusOptionDeclNoMore(
+                                  ) [MinusOptionDeclNoMore]
+                                  Term(
+                                    FactorNumber(
+                                     0
+                                    ) [FactorNumber]
+                                    MoreFactorsDeclNoMore(
+                                    ) [MoreFactorsDeclNoMore]
+                                  ) [Term]
+                                  InsertMinusDecl(
+                                  ) [InsertMinusDecl]
+                                  OptionAddopDeclNoMore(
+                                  ) [OptionAddopDeclNoMore]
+                                ) [ExprDecl]
+                              ) [IdentExprOptionExpr]
+                            ) [IdentExprOptionDeclMore]
+                          ) [DesignatorDeclNoPrefix]
+                        ) [FactorDesignator]
+                        MoreFactorsDeclNoMore(
+                        ) [MoreFactorsDeclNoMore]
+                      ) [Term]
+                      InsertMinusDecl(
+                      ) [InsertMinusDecl]
+                      OptionAddopDeclNoMore(
+                      ) [OptionAddopDeclNoMore]
+                    ) [ExprDecl]
+                  ) [DesignatorStatementAssign]
+                ) [StatementDesignator]
+              ) [StatementListDeclMore]
+              StatementDesignator(
+                DesignatorStatementAssign(
+                  DesignatorDeclNoPrefix(
+                   b
+                    IdentExprOptionDeclNoMore(
+                    ) [IdentExprOptionDeclNoMore]
+                  ) [DesignatorDeclNoPrefix]
+                  AssignopDecl(
+                  ) [AssignopDecl]
+                  ExprDecl(
+                    MinusOptionDeclNoMore(
+                    ) [MinusOptionDeclNoMore]
+                    Term(
+                      FactorDesignator(
+                        DesignatorDeclNoPrefix(
+                         niz
+                          IdentExprOptionDeclMore(
+                            IdentExprOptionDeclNoMore(
+                            ) [IdentExprOptionDeclNoMore]
+                            IdentExprOptionExpr(
+                              FieldArrayDecl(
+                              ) [FieldArrayDecl]
+                              ExprDecl(
+                                MinusOptionDeclNoMore(
+                                ) [MinusOptionDeclNoMore]
+                                Term(
+                                  FactorNumber(
+                                   0
+                                  ) [FactorNumber]
+                                  MoreFactorsDeclNoMore(
+                                  ) [MoreFactorsDeclNoMore]
+                                ) [Term]
+                                InsertMinusDecl(
+                                ) [InsertMinusDecl]
+                                OptionAddopDeclNoMore(
+                                ) [OptionAddopDeclNoMore]
+                              ) [ExprDecl]
+                            ) [IdentExprOptionExpr]
+                          ) [IdentExprOptionDeclMore]
+                        ) [DesignatorDeclNoPrefix]
+                      ) [FactorDesignator]
+                      MoreFactorsDeclNoMore(
+                      ) [MoreFactorsDeclNoMore]
+                    ) [Term]
+                    InsertMinusDecl(
+                    ) [InsertMinusDecl]
+                    OptionAddopDeclNoMore(
+                    ) [OptionAddopDeclNoMore]
+                  ) [ExprDecl]
+                ) [DesignatorStatementAssign]
+              ) [StatementDesignator]
+            ) [StatementListDeclMore]
+            StatementDesignator(
+              DesignatorStatementAssign(
+                DesignatorDeclNoPrefix(
+                 c
+                  IdentExprOptionDeclNoMore(
+                  ) [IdentExprOptionDeclNoMore]
+                ) [DesignatorDeclNoPrefix]
+                AssignopDecl(
+                ) [AssignopDecl]
+                ExprDecl(
+                  MinusOptionDeclNoMore(
+                  ) [MinusOptionDeclNoMore]
+                  Term(
+                    FactorDesignator(
+                      DesignatorDeclNoPrefix(
+                       niz
+                        IdentExprOptionDeclMore(
+                          IdentExprOptionDeclNoMore(
+                          ) [IdentExprOptionDeclNoMore]
+                          IdentExprOptionExpr(
+                            FieldArrayDecl(
+                            ) [FieldArrayDecl]
+                            ExprDecl(
+                              MinusOptionDeclNoMore(
+                              ) [MinusOptionDeclNoMore]
+                              Term(
+                                FactorNumber(
+                                 1
+                                ) [FactorNumber]
+                                MoreFactorsDeclNoMore(
+                                ) [MoreFactorsDeclNoMore]
+                              ) [Term]
+                              InsertMinusDecl(
+                              ) [InsertMinusDecl]
+                              OptionAddopDeclNoMore(
+                              ) [OptionAddopDeclNoMore]
+                            ) [ExprDecl]
+                          ) [IdentExprOptionExpr]
+                        ) [IdentExprOptionDeclMore]
+                      ) [DesignatorDeclNoPrefix]
+                    ) [FactorDesignator]
+                    MoreFactorsDeclNoMore(
+                    ) [MoreFactorsDeclNoMore]
+                  ) [Term]
+                  InsertMinusDecl(
+                  ) [InsertMinusDecl]
+                  OptionAddopDeclNoMore(
+                  ) [OptionAddopDeclNoMore]
+                ) [ExprDecl]
+              ) [DesignatorStatementAssign]
+            ) [StatementDesignator]
+          ) [StatementListDeclMore]
+          StatementDesignator(
+            DesignatorStatementAssign(
+              DesignatorDeclNoPrefix(
+               d
+                IdentExprOptionDeclNoMore(
+                ) [IdentExprOptionDeclNoMore]
+              ) [DesignatorDeclNoPrefix]
+              AssignopDecl(
+              ) [AssignopDecl]
+              ExprDecl(
+                MinusOptionDeclNoMore(
+                ) [MinusOptionDeclNoMore]
+                Term(
+                  FactorDesignator(
+                    DesignatorDeclNoPrefix(
+                     niz
+                      IdentExprOptionDeclMore(
+                        IdentExprOptionDeclNoMore(
+                        ) [IdentExprOptionDeclNoMore]
+                        IdentExprOptionExpr(
+                          FieldArrayDecl(
+                          ) [FieldArrayDecl]
+                          ExprDecl(
+                            MinusOptionDeclNoMore(
+                            ) [MinusOptionDeclNoMore]
+                            Term(
+                              FactorNumber(
+                               1
+                              ) [FactorNumber]
+                              MoreFactorsDeclNoMore(
+                              ) [MoreFactorsDeclNoMore]
+                            ) [Term]
+                            InsertMinusDecl(
+                            ) [InsertMinusDecl]
+                            OptionAddopDeclNoMore(
+                            ) [OptionAddopDeclNoMore]
+                          ) [ExprDecl]
+                        ) [IdentExprOptionExpr]
+                      ) [IdentExprOptionDeclMore]
+                    ) [DesignatorDeclNoPrefix]
+                  ) [FactorDesignator]
+                  MoreFactorsDeclNoMore(
+                  ) [MoreFactorsDeclNoMore]
+                ) [Term]
+                InsertMinusDecl(
+                ) [InsertMinusDecl]
+                OptionAddopDeclNoMore(
+                ) [OptionAddopDeclNoMore]
+              ) [ExprDecl]
+            ) [DesignatorStatementAssign]
+          ) [StatementDesignator]
+        ) [StatementListDeclMore]
+        StatementPrint(
+          ExprDecl(
+            MinusOptionDeclNoMore(
+            ) [MinusOptionDeclNoMore]
+            Term(
+              FactorDesignatorMax(
+                DesignatorDeclNoPrefix(
+                 niz
+                  IdentExprOptionDeclNoMore(
+                  ) [IdentExprOptionDeclNoMore]
+                ) [DesignatorDeclNoPrefix]
+               1
+              ) [FactorDesignatorMax]
+              MoreFactorsDeclNoMore(
+              ) [MoreFactorsDeclNoMore]
+            ) [Term]
+            InsertMinusDecl(
+            ) [InsertMinusDecl]
+            OptionAddopDeclNoMore(
+            ) [OptionAddopDeclNoMore]
+          ) [ExprDecl]
+          PrintOptionDeclNoMore(
+          ) [PrintOptionDeclNoMore]
+        ) [StatementPrint]
+      ) [StatementListDeclMore]
+    ) [MethodDecl]
+  ) [MethodDeclListDeclMore]
+) [Program]
+INFO  13:05:57,468 - ===================================
+INFO  13:05:57,475 - Deklarisana je globalna promenljiva b na liniji 4
+INFO  13:05:57,476 - Deklarisana je globalna promenljiva c na liniji 4
+INFO  13:05:57,476 - Deklarisana je globalna promenljiva d na liniji 4
+INFO  13:05:57,476 - Deklarisana je globalna promenljiva i na liniji 4
+INFO  13:05:57,476 - Deklarisana je globalna promenljiva a na liniji 5
+INFO  13:05:57,476 - Deklarisan je globalni niz niz na liniji 6
+INFO  13:05:57,477 - Obradjuje se funkcija main na liniji 8
+INFO  13:05:57,477 - Pristup promenljivoj niz na liniji 9
+INFO  13:05:57,479 - Pristup promenljivoj i na liniji 10
+INFO  13:05:57,479 - Pristup promenljivoj i na liniji 10
+INFO  13:05:57,479 - Pristup promenljivoj i na liniji 10
+INFO  13:05:57,479 - Pristup promenljivoj i na liniji 11
+INFO  13:05:57,480 - Pristup elementu niza niz na liniji 11
+INFO  13:05:57,480 - Pristup promenljivoj i na liniji 11
+INFO  13:05:57,480 - Pristup promenljivoj a na liniji 13
+INFO  13:05:57,480 - Pristup elementu niza niz na liniji 13
+INFO  13:05:57,480 - Pristup promenljivoj b na liniji 14
+INFO  13:05:57,480 - Pristup elementu niza niz na liniji 14
+INFO  13:05:57,480 - Pristup promenljivoj c na liniji 15
+INFO  13:05:57,480 - Pristup elementu niza niz na liniji 15
+INFO  13:05:57,480 - Pristup promenljivoj d na liniji 16
+INFO  13:05:57,480 - Pristup elementu niza niz na liniji 16
+INFO  13:05:57,480 - Pristup promenljivoj niz na liniji 17
+INFO  13:05:57,484 - Print count calls = 1
+INFO  13:05:57,485 - Deklarisanih promenljivih ima = 6
+INFO  13:05:57,485 - ===================================
+INFO  13:05:57,498 - Parsiranje uspesno zavrseno!

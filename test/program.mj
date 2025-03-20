@@ -1,0 +1,25 @@
+// Test301
+
+program test301
+
+int a,b,c,d,i;
+int niz[];
+{
+	void main(){
+	    niz=new int[10];
+	    for(i=0;i<10;i++){
+            niz[i]=i;
+        }
+	    a=niz[0];
+	    b=niz[0];
+	    c=niz[1];
+	    d=niz[1];
+	    print(niz@5);
+
+
+
+
+	}
+}
+
+
